@@ -1,0 +1,19 @@
+{
+  "name": "astrophysics",
+  "version": "0.0.1",
+  "description": "astrophisics ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luics/astrophysics.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luics/astrophysics/issues"
+  },
+  "homepage": "https://github.com/luics/astrophysics#readme"
+}
